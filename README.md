@@ -36,7 +36,7 @@ Follow these steps to get the Netflix clone running locally on your system:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/netflix-clone.git
+git clone https://github.com/pawarchandrakant29/netflix-clone.git
 cd netflix-clone
 ```
 
@@ -79,15 +79,15 @@ cd netflix-clone
    ```
 4. Start the frontend server:
    ```bash
-   npm start
+   npm run dev
    ```
-   The frontend server will start on `http://localhost:3000`.
+   The frontend server will start on `http://localhost:5173`.
 
 ---
 
 ## Usage
 
-1. Open `http://localhost:3000` in your browser.
+1. Open `http://localhost:5173` in your browser.
 2. Sign up for an account or log in with existing credentials.
 3. Browse movies and TV shows, search for content, and explore details.
 4. Enjoy the streaming simulation with trailers!
